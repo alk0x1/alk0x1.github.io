@@ -12,6 +12,11 @@ What i really like in technology is to know deeply how everything works, so i sp
 I will use this personal space to publish some of my personal projects, make some tutorials and talk about topics that i like. Hope it helps you in some way ;)
 
 
+<!-- my interests -->
+<!-- fields of study -->
+<!-- motivation -->
+<!-- goals -->
+
 ```json
 {
   "name": "Alan Bertani",

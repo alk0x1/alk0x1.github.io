@@ -1,7 +1,7 @@
 $text-color:            lightgrey !default;
 $text-color-light:      silver !default;
 $background-color:      #121212 !default;
-$code-background-color: #49483e !default;
+$code-background-color: #262626 !default;
 
 $border-color:          mix($text-color, $background-color, 30%) !default;
 $border-color-light:    darken($border-color, 5%) !default;
@@ -231,5 +231,5 @@ $subscribe-color:       tomato !default;
 }
 .highlight {
   color: #f8f8f2;
-  background-color: #49483e;
+  background-color: #262626;
 }
