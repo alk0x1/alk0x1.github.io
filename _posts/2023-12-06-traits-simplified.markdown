@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Simplifying Traits in Rust"
-date:   2022-10-11 14:35:50 -0300
-categories: ["Blockchain"]
+date:   2023-06-23 14:35:50 -0300
+categories: ["Rust"]
 
 ---
 
