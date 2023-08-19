@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplifying Traits in Rust"
+title:  "Creating a Container from scratch using Rust"
 date:   2023-07-17 14:35:50 -0300
 categories: ["Rust", "Computer Science"]
 
