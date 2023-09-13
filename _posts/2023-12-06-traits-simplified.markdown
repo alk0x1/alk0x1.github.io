@@ -6,7 +6,7 @@ categories: ["Rust"]
 
 ---
 
-I rarely write about some specific feature of an language. I always prefer study about general concepts but the way that traits apply polymorphism is really cool because is a really well mix of OOP and FP programming concepts that build something really different and powerful.
+I rarely write about some specific feature of an language I prefer study about general concepts but the way that traits apply polymorphism is really cool because is a really well mix of OOP and FP programming concepts that build something different and powerful.
 
 1. What are traits
 2. Why traits are unique and powerful feature
@@ -140,4 +140,4 @@ fn main() {
 }
 ```	
 
-Overall, traits provide a powerful and flexible mechanism for achieving polymorphic behavior in Rust. They combine the best of object-oriented and functional programming paradigms, enabling developers to write clean, reusable, and performant code. 
+So as we see, traits provide a powerful and flexible mechanism for achieving polymorphic behavior in Rust. They combine the best of object-oriented and functional programming paradigms, enabling developers to write clean, reusable, and performant code. 
