@@ -4,9 +4,9 @@
 
 
 **11/2022 - 01/2023 - Signo Web**
-**Position:** Desenvolvedor Fullstack
-**Main Activities:** I resolved production project issues, created and delivered a parental control application, refactored and delivered a legacy application, implemented an abandoned cart marketing system with email notifications, and migrated an API and database to Firebase.
+**Position:** Fullstack Developer
+**Main Activities:** I resolved production project issues, created and delivered a parental control application, refactored and delivered a legacy application, implemented an abandoned cart marketing system with email notifications, and migrated an entire backend to Firebase.
 
-**01/2023 - Atualmente - Fiscaltech**
-**Position:** Desenvolvedor de Software
-**Main Activities:** 
+**01/2023 - Currently - Fiscaltech**
+**Position:** Software Developer
+**Main Activities:** I developed a WebRTC video call system from scratch, fixed bugs in interconnected legacy software, and took on the responsibility of creating automated tests for several applications. I successfully delegated this responsibility to other developers. Additionally, I mentored an intern in learning Rust and Typescript, successfully assigning them responsibilities for implementing automated tests and new features after a few weeks.
