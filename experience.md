@@ -1,3 +1,8 @@
+---
+layout: page
+title: Experiences
+permalink: /experience/
+---
 **06/2021 - 08/2022 - Driva**
 **Position:** Backend Development Intern.
 **Main Activities:** Creation and maintenance of applications. I participated in the requirements gathering, planning, development, deployment, and testing stages of various APIs. I was also responsible for maintaining and implementing new features in existing applications.
