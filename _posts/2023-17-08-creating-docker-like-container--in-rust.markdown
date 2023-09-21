@@ -5,15 +5,14 @@ date:   2023-07-17 14:35:50 -0300
 categories: ["Rust", "Computer Science"]
 
 ---
+  ![](/assets/images/architecture.svg "Text to show on mouseover")
 
-1. What are docker containers?
+1. What are containers?
   - Which problem solve?
   - Architecture
-  ![alt text for screen readers](/_posts/architecture.svg "Text to show on mouseover")
   - How are implemented?
-1. What docker containers isn't?
-2. Creating a container using Rust.
-3. Creating a VM using Rust. (Other article)
+2. What containers isn't?
+3. Creating a container using Rust.
 
 
 ------------
