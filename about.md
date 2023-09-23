@@ -3,10 +3,6 @@ layout: page
 title: ❯ whoami
 permalink: /about/
 ---
-Hi!
-
-My name is Alan Bertani. I am a very curious developer who are fascinated in Cybersecurity and .
-
 What I really like is to know deeply how everything works, so I spend a lot of time learning the basics of computer science. That is the main reason why I like so much fields like exploit and malware development, blockchain, cryptographic protocols like Zero Knowledge Proofs etc. These topics force me to understand deeply how and why the techs that I use everyday works.
 
 I will use this personal space to publish some of my personal projects, make some tutorials and talk about topics that I like. Hope it helps you in some way ;)
