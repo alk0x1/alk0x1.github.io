@@ -1,7 +1,7 @@
 title: Alan Bertani
 email: alanbertani0x01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Blockchain and Cybersecurity
+ Programming and Cybersecurity
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alk0x1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
